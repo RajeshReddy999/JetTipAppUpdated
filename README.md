@@ -1,4 +1,4 @@
-# JetTipAppUpdated
+# JetTip App Updated
 
 Pre-requisites
 --------------
